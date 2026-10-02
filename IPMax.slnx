@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IPMax/IPMax.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IPMax.Tests/IPMax.Tests.csproj" />
+  </Folder>
+</Solution>
